@@ -1,4 +1,4 @@
-let audioTurn = new Audio("/assets/ting_tang.mp3");
+let audioTurn = new Audio("assets/ting_tang.mp3");
 let turn = "X"
 let isgameover = false;
 let wins = [
